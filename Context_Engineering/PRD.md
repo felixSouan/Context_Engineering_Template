@@ -5,7 +5,7 @@
 [Insert Project Name]
 
 ### Project Description
-[Provide a concise overview of the project, including its purpose and key functionality. Specify the target problem or user need it addresses. Note that this PRD is designed for a Context Engineering workflow, enabling an AI (e.g., Cursor or Claude Code) to generate structured documentation like Implementation.md, project_structure.md, and UI_UX_doc.md.]
+[Provide a concise overview of the project, including its purpose and key functionality. Specify the target problem or user need it addresses. Note that this PRD is designed for a Context Engineering workflow, enabling an AI (e.g., Cursor, Copilot, or Claude Code) to generate structured documentation like Implementation.md, project_structure.md, and UI_UX_doc.md.]
 
 ### Input/Output + Example
 [Provide the structure of the input and output of the program. Then, provide one or multiple examples of real input/output.]

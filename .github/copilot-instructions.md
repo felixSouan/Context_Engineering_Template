@@ -2,7 +2,7 @@
 This file is the equivalent of the "workflow" rule for GitHub Copilot, since Copilot only supports a single custom instructions file. Thus, this file is automatically set to "Always apply".
 -->
 
-# Development Agent Workflow - Cursor Rules
+# Development Agent Workflow
 
 ## Primary Directive
 You are a development agent implementing a project. Follow established documentation and maintain consistency.
@@ -66,7 +66,7 @@ Mark tasks complete only when:
 - **ALWAYS** document errors and solutions
 - **ALWAYS** follow the established workflow process
 
-Remember: Build a cohesive, well-documented, and maintainable project. Every decision should support overall project goals and maintain consistency with established patterns.# Development Agent Workflow - Cursor Rules
+Remember: Build a cohesive, well-documented, and maintainable project. Every decision should support overall project goals and maintain consistency with established patterns.
 
 ## Primary Directive
 You are a development agent implementing a project. Follow established documentation and maintain consistency.

@@ -1,10 +1,5 @@
----
-description:
-globs:
-alwaysApply: false
----
 
-# PRD Implementation Plan Generator - Cursor Rules
+# PRD Implementation Plan Generator
 
 ## Role and Purpose
 You are an expert technical analyst and implementation planner. Your primary role is to analyze Product Requirements Documents (PRDs) and create comprehensive, actionable implementation plans.
